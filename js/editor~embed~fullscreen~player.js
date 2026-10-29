@@ -10791,7 +10791,7 @@ class MenuBar extends react__WEBPACK_IMPORTED_MODULE_7___default.a.Component {
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(_button_button_jsx__WEBPACK_IMPORTED_MODULE_10__["default"], {
       className: _menu_bar_css__WEBPACK_IMPORTED_MODULE_36___default.a.feedbackButton
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_3__["FormattedMessage"], {
-      defaultMessage: "PenguinMod Feedback",
+      defaultMessage: "UntiltedScratchMod Feedback",
       id: "tw.feedbackButton"
     }))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_7___default.a.createElement("div", {
       className: _menu_bar_css__WEBPACK_IMPORTED_MODULE_36___default.a.accountInfoGroup
@@ -17163,7 +17163,7 @@ const StoreProjectOptions = _ref3 => {
   })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_0__["FormattedMessage"]
   // eslint-disable-next-line max-len
   , {
-    defaultMessage: "Stores the selected settings in the project so they will be automatically applied when PenguinMod loads this project. Warp timer and disable compiler will not be saved.",
+    defaultMessage: "Stores the selected settings in the project so they will be automatically applied when UntiltedScratchMod loads this project. Warp timer and disable compiler will not be saved.",
     id: "tw.settingsModal.storeProjectOptionsHelp"
   }))));
 };
@@ -31545,36 +31545,36 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _tw_tw_svg__WEBPACK_IMPORTED_MODULE_31___default = /*#__PURE__*/__webpack_require__.n(_tw_tw_svg__WEBPACK_IMPORTED_MODULE_31__);
 /* harmony import */ var _custom_custom_svg__WEBPACK_IMPORTED_MODULE_32__ = __webpack_require__(/*! ./custom/custom.svg */ "./src/lib/libraries/extensions/custom/custom.svg");
 /* harmony import */ var _custom_custom_svg__WEBPACK_IMPORTED_MODULE_32___default = /*#__PURE__*/__webpack_require__.n(_custom_custom_svg__WEBPACK_IMPORTED_MODULE_32__);
-/* harmony import */ var _penguinmod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./penguinmod/extensions/files.png */ "./src/lib/libraries/extensions/penguinmod/extensions/files.png");
-/* harmony import */ var _penguinmod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33__);
-/* harmony import */ var _penguinmod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./penguinmod/extensions/websiteRequests.png */ "./src/lib/libraries/extensions/penguinmod/extensions/websiteRequests.png");
-/* harmony import */ var _penguinmod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34__);
-/* harmony import */ var _penguinmod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./penguinmod/extensions/json.png */ "./src/lib/libraries/extensions/penguinmod/extensions/json.png");
-/* harmony import */ var _penguinmod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35__);
-/* harmony import */ var _penguinmod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./penguinmod/extensions/runtime.png */ "./src/lib/libraries/extensions/penguinmod/extensions/runtime.png");
-/* harmony import */ var _penguinmod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36__);
-/* harmony import */ var _penguinmod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./penguinmod/extensions/prism.png */ "./src/lib/libraries/extensions/penguinmod/extensions/prism.png");
-/* harmony import */ var _penguinmod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37__);
-/* harmony import */ var _penguinmod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./penguinmod/extensions/Unite.png */ "./src/lib/libraries/extensions/penguinmod/extensions/Unite.png");
-/* harmony import */ var _penguinmod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38__);
-/* harmony import */ var _penguinmod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./penguinmod/extensions/UniteSmall.png */ "./src/lib/libraries/extensions/penguinmod/extensions/UniteSmall.png");
-/* harmony import */ var _penguinmod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39__);
-/* harmony import */ var _penguinmod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./penguinmod/extensions/Proto.svg */ "./src/lib/libraries/extensions/penguinmod/extensions/Proto.svg");
-/* harmony import */ var _penguinmod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40__);
-/* harmony import */ var _penguinmod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./penguinmod/extensions/ooplogo.png */ "./src/lib/libraries/extensions/penguinmod/extensions/ooplogo.png");
-/* harmony import */ var _penguinmod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41__);
-/* harmony import */ var _penguinmod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./penguinmod/extensions/textext.png */ "./src/lib/libraries/extensions/penguinmod/extensions/textext.png");
-/* harmony import */ var _penguinmod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42__);
-/* harmony import */ var _penguinmod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./penguinmod/extensions/griffpatch_physics.png */ "./src/lib/libraries/extensions/penguinmod/extensions/griffpatch_physics.png");
-/* harmony import */ var _penguinmod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43__);
-/* harmony import */ var _penguinmod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./penguinmod/extensions/griffpatch_physicsIcon.svg */ "./src/lib/libraries/extensions/penguinmod/extensions/griffpatch_physicsIcon.svg");
-/* harmony import */ var _penguinmod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44__);
-/* harmony import */ var _penguinmod_extensions_cloudlinkThumb_png__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./penguinmod/extensions/cloudlinkThumb.png */ "./src/lib/libraries/extensions/penguinmod/extensions/cloudlinkThumb.png");
-/* harmony import */ var _penguinmod_extensions_cloudlinkThumb_png__WEBPACK_IMPORTED_MODULE_45___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_cloudlinkThumb_png__WEBPACK_IMPORTED_MODULE_45__);
-/* harmony import */ var _penguinmod_extensions_cloudlinkIcon_svg__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./penguinmod/extensions/cloudlinkIcon.svg */ "./src/lib/libraries/extensions/penguinmod/extensions/cloudlinkIcon.svg");
-/* harmony import */ var _penguinmod_extensions_cloudlinkIcon_svg__WEBPACK_IMPORTED_MODULE_46___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_cloudlinkIcon_svg__WEBPACK_IMPORTED_MODULE_46__);
-/* harmony import */ var _penguinmod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./penguinmod/extensions/gp.png */ "./src/lib/libraries/extensions/penguinmod/extensions/gp.png");
-/* harmony import */ var _penguinmod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47___default = /*#__PURE__*/__webpack_require__.n(_penguinmod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47__);
+/* harmony import */ var _UntiltedScratchMod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/files.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/files.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33__);
+/* harmony import */ var _UntiltedScratchMod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/websiteRequests.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/websiteRequests.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34__);
+/* harmony import */ var _UntiltedScratchMod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/json.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/json.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35__);
+/* harmony import */ var _UntiltedScratchMod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/runtime.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/runtime.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36__);
+/* harmony import */ var _UntiltedScratchMod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/prism.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/prism.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37__);
+/* harmony import */ var _UntiltedScratchMod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/Unite.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/Unite.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38__);
+/* harmony import */ var _UntiltedScratchMod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/UniteSmall.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/UniteSmall.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39__);
+/* harmony import */ var _UntiltedScratchMod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/Proto.svg */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/Proto.svg");
+/* harmony import */ var _UntiltedScratchMod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40__);
+/* harmony import */ var _UntiltedScratchMod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/ooplogo.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/ooplogo.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41__);
+/* harmony import */ var _UntiltedScratchMod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/textext.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/textext.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42__);
+/* harmony import */ var _UntiltedScratchMod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/griffpatch_physics.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/griffpatch_physics.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43__);
+/* harmony import */ var _UntiltedScratchMod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/griffpatch_physicsIcon.svg */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/griffpatch_physicsIcon.svg");
+/* harmony import */ var _UntiltedScratchMod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44__);
+/* harmony import */ var _UntiltedScratchMod_extensions_cloudlinkThumb_png__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/cloudlinkThumb.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/cloudlinkThumb.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_cloudlinkThumb_png__WEBPACK_IMPORTED_MODULE_45___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_cloudlinkThumb_png__WEBPACK_IMPORTED_MODULE_45__);
+/* harmony import */ var _UntiltedScratchMod_extensions_cloudlinkIcon_svg__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/cloudlinkIcon.svg */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/cloudlinkIcon.svg");
+/* harmony import */ var _UntiltedScratchMod_extensions_cloudlinkIcon_svg__WEBPACK_IMPORTED_MODULE_46___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_cloudlinkIcon_svg__WEBPACK_IMPORTED_MODULE_46__);
+/* harmony import */ var _UntiltedScratchMod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! ./UntiltedScratchMod/extensions/gp.png */ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/gp.png");
+/* harmony import */ var _UntiltedScratchMod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47___default = /*#__PURE__*/__webpack_require__.n(_UntiltedScratchMod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47__);
 
 
 
@@ -31717,7 +31717,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "jgFiles.jgFilesExtension.name"
   }),
   extensionId: 'jgFiles',
-  iconURL: _penguinmod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33___default.a,
+  iconURL: _UntiltedScratchMod_extensions_files_png__WEBPACK_IMPORTED_MODULE_33___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Blocks for reading and creating files.",
     id: "jgFiles.jgFilesExtension.description"
@@ -31730,7 +31730,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "jgWebsiteRequests.jgWebsiteRequestsExtension.name"
   }),
   extensionId: 'jgWebsiteRequests',
-  iconURL: _penguinmod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34___default.a,
+  iconURL: _UntiltedScratchMod_extensions_websiteRequests_png__WEBPACK_IMPORTED_MODULE_34___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Blocks to communicate with APIs and websites.",
     id: "jgWebsiteRequests.jgWebsiteRequestsExtension.description"
@@ -31744,7 +31744,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "jgJSON.jgJSONExtension.name"
   }),
   extensionId: 'jgJSON',
-  iconURL: _penguinmod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35___default.a,
+  iconURL: _UntiltedScratchMod_extensions_json_png__WEBPACK_IMPORTED_MODULE_35___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Blocks for handling JSON objects. Arrays are not supported yet.",
     id: "jgJSON.jgJSONExtension.description"
@@ -31757,7 +31757,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "BetterTextBlocks.ExtensionName"
   }),
   extensionId: 'text',
-  iconURL: _penguinmod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42___default.a,
+  iconURL: _UntiltedScratchMod_extensions_textext_png__WEBPACK_IMPORTED_MODULE_42___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Adds the ability to manipulate what the say block displays",
     id: "BetterTextBlocks.ExtensionDescription"
@@ -31770,8 +31770,8 @@ __webpack_require__.r(__webpack_exports__);
     id: "jwUnite.jwUniteExtension.name"
   }),
   extensionId: 'jwUnite',
-  iconURL: _penguinmod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38___default.a,
-  insetIconURL: _penguinmod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39___default.a,
+  iconURL: _UntiltedScratchMod_extensions_Unite_png__WEBPACK_IMPORTED_MODULE_38___default.a,
+  insetIconURL: _UntiltedScratchMod_extensions_UniteSmall_png__WEBPACK_IMPORTED_MODULE_39___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Useful blocks that should of been added to scratch already",
     id: "jwUnite.jwUniteExtension.description"
@@ -31784,7 +31784,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "jwProto.jwProtoExtension.name"
   }),
   extensionId: 'jwProto',
-  iconURL: _penguinmod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40___default.a,
+  iconURL: _UntiltedScratchMod_extensions_Proto_svg__WEBPACK_IMPORTED_MODULE_40___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Labelling, Placeholders and Defenitions packed into one sweet extension",
     id: "jwProto.jwProtoExtension.description"
@@ -31797,8 +31797,8 @@ __webpack_require__.r(__webpack_exports__);
     id: "jwStructs.jwStructsExtension.name"
   }),
   extensionId: 'jwStructs',
-  iconURL: _penguinmod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41___default.a,
-  insetIconURL: _penguinmod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41___default.a,
+  iconURL: _UntiltedScratchMod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41___default.a,
+  insetIconURL: _UntiltedScratchMod_extensions_ooplogo_png__WEBPACK_IMPORTED_MODULE_41___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "OOP blocks. OOp is a programming paradigm that uses objects and their interactions to design applications and computer programs.",
     id: "jwStructs.jwStructsExtension.description"
@@ -31833,7 +31833,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "jgPrism.jgPrismExtension.name"
   }),
   extensionId: 'jgPrism',
-  iconURL: _penguinmod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37___default.a,
+  iconURL: _UntiltedScratchMod_extensions_prism_png__WEBPACK_IMPORTED_MODULE_37___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Blocks for specific use-cases or major convenience.",
     id: "jgPrism.jgPrismExtension.description"
@@ -31847,7 +31847,7 @@ __webpack_require__.r(__webpack_exports__);
     id: "jgRuntime.jgRuntimeExtension.name"
   }),
   extensionId: 'jgRuntime',
-  iconURL: _penguinmod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36___default.a,
+  iconURL: _UntiltedScratchMod_extensions_runtime_png__WEBPACK_IMPORTED_MODULE_36___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Blocks for updating Scratch objects like the stage.",
     id: "jgRuntime.jgRuntimeExtension.description"
@@ -31859,8 +31859,8 @@ __webpack_require__.r(__webpack_exports__);
   name: 'Physics',
   extensionId: 'griffpatch',
   collaborator: 'Griffpatch',
-  iconURL: _penguinmod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43___default.a,
-  insetIconURL: _penguinmod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44___default.a,
+  iconURL: _UntiltedScratchMod_extensions_griffpatch_physics_png__WEBPACK_IMPORTED_MODULE_43___default.a,
+  insetIconURL: _UntiltedScratchMod_extensions_griffpatch_physicsIcon_svg__WEBPACK_IMPORTED_MODULE_44___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "Box2D Physics extension created by Griffpatch.",
     id: "gui.extension.test.description"
@@ -31870,7 +31870,7 @@ __webpack_require__.r(__webpack_exports__);
 }, {
   name: 'GamePad',
   extensionId: 'GamepadExtension',
-  iconURL: _penguinmod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47___default.a,
+  iconURL: _UntiltedScratchMod_extensions_gp_png__WEBPACK_IMPORTED_MODULE_47___default.a,
   description: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"], {
     defaultMessage: "A cool extension to interact with gamepads(aka controllers) such as xbox controllers",
     id: "GamepadExtension.GamepadExtension.description"
@@ -32122,9 +32122,9 @@ module.exports = __webpack_require__.p + "static/assets/7679e8aa3b5a6b745823e00a
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/Proto.svg":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/Proto.svg":
 /*!**********************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/Proto.svg ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/Proto.svg ***!
   \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32133,9 +32133,9 @@ module.exports = __webpack_require__.p + "static/assets/5c462658fc40281443c326ed
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/Unite.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/Unite.png":
 /*!**********************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/Unite.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/Unite.png ***!
   \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32144,9 +32144,9 @@ module.exports = __webpack_require__.p + "static/assets/195b65444703293e0624ff4e
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/UniteSmall.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/UniteSmall.png":
 /*!***************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/UniteSmall.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/UniteSmall.png ***!
   \***************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32155,9 +32155,9 @@ module.exports = __webpack_require__.p + "static/assets/4b74f619cb959e9ca7d72de2
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/cloudlinkIcon.svg":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/cloudlinkIcon.svg":
 /*!******************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/cloudlinkIcon.svg ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/cloudlinkIcon.svg ***!
   \******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32166,9 +32166,9 @@ module.exports = __webpack_require__.p + "static/assets/930323f74179aa022fd87939
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/cloudlinkThumb.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/cloudlinkThumb.png":
 /*!*******************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/cloudlinkThumb.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/cloudlinkThumb.png ***!
   \*******************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32177,9 +32177,9 @@ module.exports = __webpack_require__.p + "static/assets/64213236c2ea6563c91f8e7a
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/files.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/files.png":
 /*!**********************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/files.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/files.png ***!
   \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32188,9 +32188,9 @@ module.exports = __webpack_require__.p + "static/assets/333b5b49e1753ebb8908212c
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/gp.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/gp.png":
 /*!*******************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/gp.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/gp.png ***!
   \*******************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32199,9 +32199,9 @@ module.exports = __webpack_require__.p + "static/assets/5b8017a3c693ce74a3aa4e07
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/griffpatch_physics.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/griffpatch_physics.png":
 /*!***********************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/griffpatch_physics.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/griffpatch_physics.png ***!
   \***********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32210,9 +32210,9 @@ module.exports = __webpack_require__.p + "static/assets/f87904843f21a05464c4acc3
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/griffpatch_physicsIcon.svg":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/griffpatch_physicsIcon.svg":
 /*!***************************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/griffpatch_physicsIcon.svg ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/griffpatch_physicsIcon.svg ***!
   \***************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32221,9 +32221,9 @@ module.exports = __webpack_require__.p + "static/assets/7cde88cd98adaaf1e911f68b
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/json.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/json.png":
 /*!*********************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/json.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/json.png ***!
   \*********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32232,9 +32232,9 @@ module.exports = __webpack_require__.p + "static/assets/44541df59fd6a8070d12e95c
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/ooplogo.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/ooplogo.png":
 /*!************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/ooplogo.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/ooplogo.png ***!
   \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32243,9 +32243,9 @@ module.exports = __webpack_require__.p + "static/assets/c296552f9440b25b8225da38
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/prism.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/prism.png":
 /*!**********************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/prism.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/prism.png ***!
   \**********************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32254,9 +32254,9 @@ module.exports = __webpack_require__.p + "static/assets/4bfd8156fc8a4ea8f495c5da
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/runtime.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/runtime.png":
 /*!************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/runtime.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/runtime.png ***!
   \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32265,9 +32265,9 @@ module.exports = __webpack_require__.p + "static/assets/3eb1599270a7125b2240e7dd
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/textext.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/textext.png":
 /*!************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/textext.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/textext.png ***!
   \************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32276,9 +32276,9 @@ module.exports = __webpack_require__.p + "static/assets/197523614eaff63c76494f71
 
 /***/ }),
 
-/***/ "./src/lib/libraries/extensions/penguinmod/extensions/websiteRequests.png":
+/***/ "./src/lib/libraries/extensions/UntiltedScratchMod/extensions/websiteRequests.png":
 /*!********************************************************************************!*\
-  !*** ./src/lib/libraries/extensions/penguinmod/extensions/websiteRequests.png ***!
+  !*** ./src/lib/libraries/extensions/UntiltedScratchMod/extensions/websiteRequests.png ***!
   \********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -32851,7 +32851,7 @@ const myBlocks = function myBlocks() {
 };
 
 // eslint-disable-next-line max-len
-const extraTurboWarpBlocks = "\n<block type=\"argument_reporter_boolean\"><field name=\"VALUE\">is compiled?</field></block>\n<block type=\"argument_reporter_boolean\"><field name=\"VALUE\">is PenguinMod or TurboWarp?</field></block>\n";
+const extraTurboWarpBlocks = "\n<block type=\"argument_reporter_boolean\"><field name=\"VALUE\">is compiled?</field></block>\n<block type=\"argument_reporter_boolean\"><field name=\"VALUE\">is UntiltedScratchMod or TurboWarp?</field></block>\n";
 /* eslint-enable no-unused-vars */
 
 const xmlOpen = '<xml style="display: none">';
